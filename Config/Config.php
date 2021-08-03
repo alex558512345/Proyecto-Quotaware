@@ -15,7 +15,7 @@
 
 	//Deliminadores decimal y millar Ej. 24.198
 	const SPD = ".";
-	const SPM = ".";
+	//const SPM = ".";
 
 	//Simbolo de moneda
 	const SMONEY = "$";
